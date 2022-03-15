@@ -1,4 +1,4 @@
-![Cover](https://github.com/Cargotoundra/Cargotoundra/tree/main/Img/avatar-modified.png)
+![Cover](https://github.com/Cargotoundra/Cargotoundra/master/Img/avatar-modified.png)
 
 ### Hi there 👋
 

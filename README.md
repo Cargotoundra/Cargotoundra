@@ -3,7 +3,7 @@
   <img src="https://github.com/Cargotoundra/Cargotoundra/blob/main/Img/avatar-modified.png" alt="Guillaume" height="200"/>
 </p>
 <p>
- Salut,  <em>moi c'est Guillaume,</em> Développeur web indépendant et Freelance depuis 2021 basé sur Marseille 🌞 . Je suis venu au code en première partie en autodidacte (merci Youtube !) puis j'ai finalement suivi et obtenu un BTS Front End fin 2021. Vous trouverez sur ce profil mes projets suivis en cours et des projets clients.
+ Salut, <em>moi c'est Guillaume,</em> Développeur web indépendant et Freelance depuis 2021 basé sur Marseille 🌞 . Je suis venu au code en première partie en autodidacte (merci Youtube !) puis j'ai finalement suivi et obtenu un BTS Front End fin 2021. Vous trouverez sur ce profil mes projets suivis en cours et des projets clients.
 </p>
 <h3>Compétences techniques</h3>
 <p>
@@ -20,9 +20,8 @@
   <img alt='SQL' src='https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white&color=blue' />
 </p>
   
-  <h3>Where to find me</h3>
+  <h3>Contact</h3>
 <p>
-<a href="https://github.com/Cargotoundra" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-<!--<a href="https://www.linkedin.com/in/nicolas-brondin" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
- <a href="https://gmxdev.fr" target="_blank"><img alt="site" src="https://img.shields.io/badge/Site-%2312100E.svg?&style=for-the-badge&logo=website&logoColor=blue&color=white" /></a>
+<a href="https://github.com/Cargotoundra" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white&color=blue" /></a> 
+ <a href="https://gmxdev.fr" target="_blank"><img alt="site" src="https://img.shields.io/badge/Site-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=blue&color=white" /></a>
 </p>

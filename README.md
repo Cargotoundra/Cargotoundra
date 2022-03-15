@@ -1,3 +1,5 @@
+![Cover](https://github.com/Cargotoundra/Cargotoundra/tree/main/Img/avatar-modified.png)
+
 ### Hi there 👋
 
 <!--

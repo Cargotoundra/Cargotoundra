@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/Cargotoundra/Cargotoundra/blob/main/Img/avatar-modified.png" alt="Guillaume" height="200"/>
+  <img src="https://github.com/Cargotoundra/Cargotoundra/blob/main/Img/avatar2.png" alt="Guillaume" height="200"/>
 </p>
 <p>
  Salut, <em>moi c'est Guillaume,</em> Développeur web indépendant et Freelance depuis 2021 basé sur Marseille 🌞 . Je suis venu au code en première partie en autodidacte (merci Youtube !) puis j'ai finalement suivi et obtenu un BTS Front End fin 2021. Vous trouverez sur ce profil mes projets suivis en cours et des projets clients.
